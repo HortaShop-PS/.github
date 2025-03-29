@@ -18,11 +18,15 @@ Esta disciplina visa acompanhar os acadêmicos no desenvolvimento de sistemas de
 
 - Índice
   - [Descrição do Produto](#descrição-do-produto)
+  - [Minimum Viable Product](#descrição-do-produto)
 
 ## Descrição do produto
 
 O HortaShop foi criado com o propósito de conectar consumidores que buscam alimentos saudáveis e frescos diretamente com produtores de hortifrúti, eliminando intermediários e promovendo a sustentabilidade. A plataforma visa facilitar o acesso a produtos de qualidade, ao mesmo tempo em que apoia os pequenos agricultores locais, fortalecendo a economia regional e reduzindo o impacto ambiental causado por longas cadeias de distribuição.
 
+---
+
+## [Minimum Viable Product](/mvp.md)
 
 
 
