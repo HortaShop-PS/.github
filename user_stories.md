@@ -10,6 +10,9 @@
     - [RF02 - Realizar Login](#rf02---realizar-login)
     - [RF03 - Cadastro de Produtor](#rf03---cadastro-de-produtor)
     - [RF04 - Busca e Filtros Avançados](#rf04---busca-e-filtros-avançados)
+    - [RF08 - Avaliações e Detalhes do Pedido](#rf08---avaliações-e-detalhes-do-pedido)
+    - [RF09 - Pagamento e Rastreamento](#rf09---pagamento-e-rastreamento)
+    - [RF11 - Configurações de Perfil](#rf11---configurações-de-perfil)
     - [RF12 - Notificações](#rf12---notificações)
     - [RF13 - Gerenciamento de Catálogo](#rf13---gerenciamento-de-catálogo)
 
