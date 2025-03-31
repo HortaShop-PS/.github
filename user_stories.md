@@ -10,9 +10,6 @@
     - [RF02 - Realizar Login](#rf02---realizar-login)
     - [RF03 - Cadastro de Produtor](#rf03---cadastro-de-produtor)
     - [RF04 - Busca e Filtros Avançados](#rf04---busca-e-filtros-avançados)
-    - [RF05 - Detalhes do Produto](#rf05---detalhes-do-produto)
-    - [RF06 - Cadastro de Produtores](#rf06---cadastro-de-produtores)
-    - [RF07 - Histórico de Pedidos](#rf07---histórico-de-pedidos)
     - [RF12 - Notificações](#rf12---notificações)
     - [RF13 - Gerenciamento de Catálogo](#rf13---gerenciamento-de-catálogo)
 
@@ -76,44 +73,64 @@ Revisado por: [Gustavo](https://github.com/uGonzaguinha)
 
 [Subir](#user-stories)
 
-### RF05 - Detalhes do Produto
+### RF08 - Avaliações e Detalhes do Pedido
 
-Desenvolvido por: [Gustavo Gonzaga](https://github.com/uGonzaguinha)
+Desenvolvido por: [Raphael Sales](https://github.com/raphaelsales)
 
-Revisado por: [Raphael](https://github.com/raphaelsales)
+Revisado por: [Thiago Gonzaga](https://github.com/thiagogonzagadev)
 
-#### Como um comprador, eu quero ver os detalhes de um produto para saber mais sobre ele antes de comprar.
+#### Como comprador, quero ver detalhes do pedido e avaliar o produto/produtor após o recebimento.
 
 <div align="center">
-  <img src="/images/telas/Detalhes-produto.png" alt="Tela do Detalhes do Produto" style="height: 10cm;">
+  <img src="/images/telas/Detalhe-de-Pedido.png" alt="Tela de Detalhes do Pedido" style="height: 10cm;">
+</div>
+
+<div align="center">
+  <img src="/images/telas/Avaliar-Produto.png" alt="Tela de Detalhes do Pedido" style="height: 10cm;">
+</div>
+
+<div align="center">
+  <img src="/images/telas/Rastrear-Pedido.png" alt="Rastreio Detalhes do Pedido" style="height: 10cm;">
 </div>
 
 [Subir](#user-stories)
 
-### RF06 - Cadastro de Produtores
+### RF09 - Pagamento e Rastreamento
 
-Desenvolvido por: [Gustavo Gonzaga](https://github.com/uGonzaguinha)
+Desenvolvido por: [Raphael Sales](https://github.com/raphaelsales)
 
-Revisado por: [Raphael](https://github.com/raphaelsales)
+Revisado por: [Thiago Gonzaga](https://github.com/thiagogonzagadev)
 
-#### Como produtor, desejo me cadastrar no aplicativo para oferecer meus produtos aos consumidores.
+#### Como comprador, quero efetuar pagamentos diretamente pelo aplicativo para maior comodidade e rastrear minhas compras.
 
 <div align="center">
-  <img src="/images/telas/Cadastro-produtores.png" alt="Tela do Cadastro dos Produtores" style="height: 10cm;">
+  <img src="/images/telas/Pagamento2.png" alt="Pagamento" style="height: 10cm;">
+</div>
+
+<div align="center">
+  <img src="/images/telas/Pagamento1.png" alt="Pagamento" style="height: 10cm;">
+</div>
+
+<div align="center">
+  <img src="/images/telas/Rastreios.png" alt="Rastreio" style="height: 10cm;">
 </div>
 
 [Subir](#user-stories)
 
-### RF07 - Histórico de Pedidos
+### RF11 - Configurações de Perfil
 
-Desenvolvido por: [Gustavo Gonzaga](https://github.com/uGonzaguinha)
+Desenvolvido por: [Raphael Sales](https://github.com/raphaelsales)
 
-Revisado por: [Raphael](https://github.com/raphaelsales)
+Revisado por: [Thiago Gonzaga](https://github.com/thiagogonzagadev)
 
-#### Como comprador, quero acessar o histórico dos meus pedidos para acompanhar minhas compras anteriores.
+#### Como um usuário, eu quero receber notificações sobre pedidos, promoções e atualizações relevantes
 
 <div align="center">
-  <img src="/images/telas/Historico-pedidos.png" alt="Tela do Histórico dos Pedidos" style="height: 10cm;">
+  <img src="/images/telas/Conta.png" alt="Perfil" style="height: 10cm;">
+</div>
+
+<div align="center">
+  <img src="/images/telas/Conta2.png" alt="Alteração de Perfil" style="height: 10cm;">
 </div>
 
 [Subir](#user-stories)
