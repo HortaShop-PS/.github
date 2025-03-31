@@ -1,51 +1,102 @@
-# User Stories HortaShop
+# User Stories
 
 <div align="center">
-  <img src="/logo/hortaShop.png" alt="logo" style="height: 10cm;">
+  <img src="/images/logo/hortaShop.png" alt="logo" style="height: 5cm;">
 </div>
 
 - Índice
-    - [Descrição do produto](#descrição-do-produto)
-    - [Time](#time)
-    - [Autenticação e Cadastro](#autenticação-e-cadastro)
-      - [RF01 - Realizar Cadastro](#rf01---realizar-cadastro)
-      - [RF02 - Realizar Login](#rf02---realizar-login)
-      - [RF03 - Cadastro de Produtor](#rf03---cadastro-de-produtor)
-  
-## Descrição do produto
+  - [Autenticação e Cadastro](#autenticação-e-cadastro)
+    - [RF01 - Realizar Cadastro](#rf01---realizar-cadastro)
+    - [RF02 - Realizar Login](#rf02---realizar-login)
+    - [RF03 - Cadastro de Produtor](#rf03---cadastro-de-produtor)
+    - [RF04 - Busca e Filtros Avançados](#rf04---busca-e-filtros-avançados)
+    - [RF12 - Notificações](#rf12---notificações)
+    - [RF13 - Gerenciamento de Catálogo](#rf13---gerenciamento-de-catálogo)
 
-​O HortaShop é uma plataforma online dedicada a conectar consumidores que procuram alimentos saudáveis e frescos diretamente com produtores rurais da Agricultura Familiar de hortifrúti e feirantes de Palmas-TO. Ao eliminar intermediários, a iniciativa promove a sustentabilidade e fortalece a economia regional, facilitando o acesso a produtos de qualidade. Além disso, ao apoiar pequenos agricultores locais, o HortaShop contribui para a redução do impacto ambiental associado a longas cadeias de distribuição.
-
-## Equipe
-
-- Antonio André Barcelos Chagas - [@andrebarceloschagas](https://github.com/andrebarceloschagas)
-- Gustavo Gonzaga dos Santos - [@uGonzaguinha](https://github.com/uGonzaguinha)
-- Helorrayne Cristine  - [@HeloCris](https://github.com/HeloCris)
-- Raphael Sales - [@raphaelsales](https://github.com/raphaelsales)
-- Thiago Gonzaga dos Santos - [@thiagogonzagadev](https://github.com/thiagogonzagadev)
-
----
-
-### [Projeto de Sistemas 2025/1](https://github.com/disciplinas-prof-Edeilson-UFT/proj-sist-2025-1) - Professor Edeilson
-
----
+[Voltar ao README](https://github.com/HortaShop-PS)
 
 ## Autenticação e Cadastro
 
 ### RF01 - Realizar Cadastro
 
-Como um usuário sem conta, eu quero me cadastrar no aplicativo para que eu possa começar a comprar hortaliças.
+Desenvolvido por: [Thiago](https://github.com/thiagogonzagadev)
 
-![Tela cadastro](images/telas/Autenticacao-cadastro.png)
+Revisado por: [Antonio André](https://github.com/andrebarceloschagas)
+
+#### Como um usuário sem conta, eu quero me cadastrar no aplicativo para que eu possa começar a comprar hortaliças
+
+<div align="center">
+  <img src="/images/telas/Autenticacao-cadastro.png" alt="logo" style="height: 10cm;">
+</div>
+
+[Subir](#user-stories)
 
 ### RF02 - Realizar Login
 
-Como um usuário cadastrado, eu quero fazer login no aplicativo para acessar minha conta e realizar compras.
+Desenvolvido por: [Thiago](https://github.com/thiagogonzagadev)
 
-![Tela login](images/telas/Autenticacao-login.png)
+Revisado por: [Antonio André](https://github.com/andrebarceloschagas)
+
+#### Como um usuário cadastrado, eu quero fazer login no aplicativo para acessar minha conta e realizar compras
+
+<div align="center">
+  <img src="/images/telas/Autenticacao-login.png" alt="Tela de Login" style="height: 10cm;">
+</div>
+
+[Subir](#user-stories)
 
 ### RF03 - Cadastro de Produtor
 
-Como um produtor, eu quero cadastrar-me como vendedor para que possa oferecer meus produtos na plataforma.
+Desenvolvido por: [Thiago](https://github.com/thiagogonzagadev)
 
-![tela recuperar senha](images/telas/Autenticacao-cadastro-vendedor.png)
+Revisado por: [Antonio André](https://github.com/andrebarceloschagas)
+
+#### Como um produtor, eu quero cadastrar-me como vendedor para que possa oferecer meus produtos na plataforma
+
+<div align="center">
+  <img src="/images/telas/Autenticacao-cadastro-vendedor.png" alt="Tela de Cadastro de Produtor" style="height: 10cm;">
+</div>
+
+[Subir](#user-stories)
+
+### RF04 - Busca e Filtros Avançados
+
+Desenvolvido por: [Antonio André](https://github.com/andrebarceloschagas)
+
+Revisado por: [Gustavo](https://github.com/uGonzaguinha)
+
+#### Como um cliente, eu quero buscar produtos e aplicar filtros avançados para encontrar hortaliças específicas de forma rápida e eficiente
+
+<div align="center">
+  <img src="/images/telas/busca.png" alt="Tela de Busca e Filtros Avançados" style="height: 10cm;">
+</div>
+
+[Subir](#user-stories)
+
+### RF12 - Notificações
+
+Desenvolvido por: [Antonio André](https://github.com/andrebarceloschagas)
+
+Revisado por: [Gustavo](https://github.com/uGonzaguinha)
+
+#### Como um usuário, eu quero receber notificações sobre pedidos, promoções e atualizações relevantes
+
+<div align="center">
+  <img src="/images/telas/notificacao.png" alt="Tela de Notificações" style="height: 10cm;">
+</div>
+
+[Subir](#user-stories)
+
+### RF13 - Gerenciamento de Catálogo
+
+Desenvolvido por: [Antonio André](https://github.com/andrebarceloschagas)
+
+Revisado por: [Gustavo](https://github.com/uGonzaguinha)
+
+#### Como um produtor, eu quero adicionar, editar ou remover hortaliças do meu catálogo para manter minhas ofertas e estoque atualizados ao realizar alterações no catálogo
+
+<div align="center">
+  <img src="/images/telas/catalogo.png" alt="Tela de Gerenciamento de Catálogo" style="height: 10cm;">
+</div>
+
+[Subir](#user-stories)
