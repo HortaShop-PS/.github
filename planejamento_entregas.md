@@ -1,6 +1,6 @@
 # Planejamento e Relatório das Entregas
 
-<div align="center">
+<div>
   <img src="/logo/hortaShop.png" alt="logo" style="height: 10cm;">
 </div>
 
@@ -19,12 +19,12 @@ Valor:
 
 Definição da Empresa/Startup:
 
-- Definição do Problema: Desenvolvida por: @andrebarceloschagas | Revisada por: @thiagogonzagadev | Pull Request: .
-- Modelo Canvas: Desenvolvida por: @HeloCris | Revisada por: @raphaelsales | Pull Request: .
+- Definição do Problema: Desenvolvida por: [@andrebarceloschagas](https://github.com/andrebarceloschagas) | Revisada por: [@thiagogonzagadev](https://github.com/thiagogonzagadev) | Pull Request: .
+- Modelo Canvas: Desenvolvida por: [@HeloCris](https://github.com/HeloCris) | Revisada por: [@raphaelsales](https://github.com/raphaelsales) | Pull Request: .
 - Validação do problema com Clientes: Desenvolvida por: | Revisada por: | Pull Request: .
-- Definição do MVP: Desenvolvida por: @thiagogonzagadev | Revisada por: @andrebarceloschagas | Pull Request: .
-- Prototipagem do produto no Figma: Desenvolvida por: Todos | Revisada por: @thiagogonzagadev | Pull Request: .
-- User Stories: Desenvolvida por: Todos | Revisada por: @andrebarceloschagas | Pull Request: .
+- Definição do MVP: Desenvolvida por: [@thiagogonzagadev](https://github.com/thiagogonzagadev) | Revisada por: [@andrebarceloschagas](https://github.com/andrebarceloschagas) | Pull Request: .
+- Prototipagem do produto no Figma: Desenvolvida por: Todos | Revisada por: [@thiagogonzagadev](https://github.com/thiagogonzagadev) | Pull Request: .
+- User Stories: Desenvolvida por: Todos | Revisada por: [@andrebarceloschagas](https://github.com/andrebarceloschagas) | Pull Request: .
 
 Relatório: .
 
@@ -36,16 +36,16 @@ Valor: Funcionalidades básicas de autenticação e perfis de usuário para ambo
 
 Core da Plataforma e Cadastro:
 
-- Tela de Login: Desenvolvida por: @andrebarceloschagas | Revisada por: @thiagogonzagadev| Pull Request: .
-- Tela de Cadastro (produtor e consumidor): Desenvolvida por: @HeloCris | Revisada por: @uGonzaguinha | Pull Request: .
-- Tela Home (inicial): Desenvolvida por: @raphaelsales | Revisada por: @andrebarceloschagas | Pull Request: .
-- Tela de Perfil (produtor e consumidor): Desenvolvida por: @thiagogonzagadev | Revisada por: @HeloCris| Pull Request: .
-- Tela de Editar Perfil (produtor e consumidor): Desenvolvida por: @uGonzaguinha | Revisada por: @raphaelsales | Pull Request: .
-- Tela de Login: Desenvolvida por: @andrebarceloschagas | Revisada por: @thiagogonzagadev | Pull Request: .
-- Tela de Cadastro: Desenvolvida por: @HeloCris | Revisada por: @uGonzaguinha | Pull Request: .
-- Tela Home (com mapa): Desenvolvida por: @raphaelsales | Revisada por: @andrebarceloschagas | Pull Request: .
-- Tela de Perfil: Desenvolvida por: @thiagogonzagadev | Revisada por: @HeloCris | Pull Request: .
-- Tela de Editar Perfil: Desenvolvida por: @uGonzaguinha | Revisada por: @raphaelsales | Pull Request: .
+- Tela de Login: Desenvolvida por: [@andrebarceloschagas](https://github.com/andrebarceloschagas) | Revisada por: [@thiagogonzagadev](https://github.com/thiagogonzagadev) | Pull Request: .
+- Tela de Cadastro (produtor e consumidor): Desenvolvida por: [@HeloCris](https://github.com/HeloCris) | Revisada por: [@uGonzaguinha](https://github.com/uGonzaguinha) | Pull Request: .
+- Tela Home (inicial): Desenvolvida por: [@raphaelsales](https://github.com/raphaelsales) | Revisada por: [@andrebarceloschagas](https://github.com/andrebarceloschagas) | Pull Request: .
+- Tela de Perfil (produtor e consumidor): Desenvolvida por: [@thiagogonzagadev](https://github.com/thiagogonzagadev) | Revisada por: [@HeloCris](https://github.com/HeloCris) | Pull Request: .
+- Tela de Editar Perfil (produtor e consumidor): Desenvolvida por: [@uGonzaguinha](https://github.com/uGonzaguinha) | Revisada por: [@raphaelsales](https://github.com/raphaelsales) | Pull Request: .
+- Tela de Login: Desenvolvida por: [@andrebarceloschagas](https://github.com/andrebarceloschagas) | Revisada por: [@thiagogonzagadev](https://github.com/thiagogonzagadev) | Pull Request: .
+- Tela de Cadastro: Desenvolvida por: [@HeloCris](https://github.com/HeloCris) | Revisada por: [@uGonzaguinha](https://github.com/uGonzaguinha) | Pull Request: .
+- Tela Home (com mapa): Desenvolvida por: [@raphaelsales](https://github.com/raphaelsales) | Revisada por: [@andrebarceloschagas](https://github.com/andrebarceloschagas) | Pull Request: .
+- Tela de Perfil: Desenvolvida por: [@thiagogonzagadev](https://github.com/thiagogonzagadev) | Revisada por: [@HeloCris](https://github.com/HeloCris) | Pull Request: .
+- Tela de Editar Perfil: Desenvolvida por: [@uGonzaguinha](https://github.com/uGonzaguinha) | Revisada por: [@raphaelsales](https://github.com/raphaelsales) | Pull Request: .
 
 Relatório: .
 
