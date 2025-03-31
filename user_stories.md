@@ -20,18 +20,32 @@ Desenvolvido por: [Thiago](https://github.com/thiagogonzagadev)
 
 Revisado por: [Antonio André](https://github.com/andrebarceloschagas)
 
-Como um usuário sem conta, eu quero me cadastrar no aplicativo para que eu possa começar a comprar hortaliças.
+#### Como um usuário sem conta, eu quero me cadastrar no aplicativo para que eu possa começar a comprar hortaliças
 
-![Tela cadastro](images/telas/Autenticacao-cadastro.png)
+<div align="center">
+  <img src="/images/telas/Autenticacao-cadastro.png" alt="logo" style="height: 10cm;">
+</div>
 
 ### RF02 - Realizar Login
 
-Como um usuário cadastrado, eu quero fazer login no aplicativo para acessar minha conta e realizar compras.
+Desenvolvido por: [Thiago](https://github.com/thiagogonzagadev)
 
-![Tela login](images/telas/Autenticacao-login.png)
+Revisado por: [Antonio André](https://github.com/andrebarceloschagas)
+
+#### Como um usuário cadastrado, eu quero fazer login no aplicativo para acessar minha conta e realizar compras
+
+<div align="center">
+  <img src="/images/telas/Autenticacao-login.png" alt="Tela de Login" style="height: 10cm;">
+</div>
 
 ### RF03 - Cadastro de Produtor
 
-Como um produtor, eu quero cadastrar-me como vendedor para que possa oferecer meus produtos na plataforma.
+Desenvolvido por: [Thiago](https://github.com/thiagogonzagadev)
 
-![tela recuperar senha](images/telas/Autenticacao-cadastro-vendedor.png)
+Revisado por: [Antonio André](https://github.com/andrebarceloschagas)
+
+#### Como um produtor, eu quero cadastrar-me como vendedor para que possa oferecer meus produtos na plataforma
+
+<div align="center">
+  <img src="/images/telas/Autenticacao-cadastro-vendedor.png" alt="Tela de Cadastro de Produtor" style="height: 10cm;">
+</div>
