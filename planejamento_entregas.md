@@ -15,22 +15,47 @@
 
 ## Sprint 1 | 10/03 - 31/03
 
-Valor:
+Valor: Estabelecer as bases do projeto, alinhando a visão do produto e garantindo um planejamento sólido para o desenvolvimento.
 
 Definição da Empresa/Startup:
 
-- Definição do Problema: Desenvolvida por: [@andrebarceloschagas](https://github.com/andrebarceloschagas) | Revisada por: [@thiagogonzagadev](https://github.com/thiagogonzagadev) | Pull Request: .
-- Modelo Canvas: Desenvolvida por: [@HeloCris](https://github.com/HeloCris) | Revisada por: [@raphaelsales](https://github.com/raphaelsales) | Pull Request: .
+- Definição do Problema: Desenvolvida por: [@andrebarceloschagas](https://github.com/andrebarceloschagas) | Revisada por: [@thiagogonzagadev](https://github.com/thiagogonzagadev) | Pull Request: #2
+- Modelo Canvas: Desenvolvida por: [@HeloCris](https://github.com/HeloCris) | Revisada por: [@andrebarceloschagas](https://github.com/andrebarceloschagas) | Pull Request: #7
 - Validação do problema com Clientes: Desenvolvida por: | Revisada por: | Pull Request: .
-- Definição do MVP: Desenvolvida por: [@thiagogonzagadev](https://github.com/thiagogonzagadev) | Revisada por: [@andrebarceloschagas](https://github.com/andrebarceloschagas) | Pull Request: .
-- Prototipagem do produto no Figma: Desenvolvida por: Todos | Revisada por: [@thiagogonzagadev](https://github.com/thiagogonzagadev) | Pull Request: .
+- Definição do MVP: Desenvolvida por: [@thiagogonzagadev](https://github.com/thiagogonzagadev) | Revisada por: [@andrebarceloschagas](https://github.com/andrebarceloschagas) | Pull Request: #1
+- Prototipagem do produto no Figma: Desenvolvida por: Todos | Revisada por: [@thiagogonzagadev](https://github.com/thiagogonzagadev) | Pull Request: #1
 - User Stories:
-  - RF01, RF02 e RF03 - Desenvolvido por: [@thiagogonzagadev](https://github.com/thiagogonzagadev) | Revisada por: [@andrebarceloschagas](https://github.com/andrebarceloschagas) | Pull Request: .
-  - RF04, RF12 e RF13 - Desenvolvido por: [@thiagogonzagadev](https://github.com/thiagogonzagadev) | Revisada por: [@andrebarceloschagas](https://github.com/andrebarceloschagas) | Pull Request: .
+  - RF01, RF02 e RF03 - Desenvolvido por: [@thiagogonzagadev](https://github.com/thiagogonzagadev) | Revisada por: [@andrebarceloschagas](https://github.com/andrebarceloschagas) | Pull Request: #3
+  - RF04, RF12 e RF13 - Desenvolvido por: [@andrebarceloschagas](https://github.com/andrebarceloschagas) | Revisada por: [@uGonzaguinha](https://github.com/uGonzaguinha) | Pull Request: #4
+  - RF05, RF06, FR07 - Desenvolvido por: [@uGonzaguinha](https://github.com/uGonzaguinha) | Revisada por: [@raphaelsales](https://github.com/raphaelsales) | Pull Request: #5
+  - RF08, RF09, RF11 - Desenvolvido por: [@raphaelsales](https://github.com/raphaelsales) | Revisada por: [@uGonzaguinha](https://github.com/uGonzaguinha) | Pull Request: #6
 
-Relatório: .
+Relatório: Durante a Sprint 1, o foco principal foi estabelecer as bases do projeto, incluindo a definição da empresa/startup, o planejamento inicial e a criação das primeiras user stories. As entregas realizadas nesta sprint foram fundamentais para alinhar a visão do produto e preparar o desenvolvimento das funcionalidades principais.
 
-Release: .
+- Entregas Realizadas:
+  - **Definição do Problema**: Documentação criada e revisada para identificar os principais desafios enfrentados pelos clientes e produtores.
+  - **Modelo Canvas**: Estruturado para mapear os principais elementos do negócio, como proposta de valor, segmentos de clientes e canais.
+  - **Definição do MVP**: Identificação das funcionalidades essenciais para o lançamento inicial do produto.
+  - **Prototipagem no Figma**: Criação de protótipos iniciais para as telas principais, como login, cadastro e home.
+  - **User Stories**: Desenvolvimento e revisão das user stories RF01, RF02, RF03, RF04, RF12 e RF13, cobrindo autenticação, cadastro e gerenciamento de catálogo.
+
+- Pontos Positivos:
+  - Alinhamento claro entre os membros da equipe sobre os objetivos do projeto.
+  - Entregas realizadas dentro do prazo planejado.
+  - Colaboração eficiente entre os desenvolvedores e revisores.
+
+- Pontos de Melhoria:
+  - Melhorar a comunicação com os stakeholders para validar as entregas realizadas.
+  - Aumentar a frequência de reuniões para acompanhar o progresso das tarefas.
+
+- Próximos Passos:
+  - Implementar as funcionalidades básicas de autenticação e cadastro na Sprint 2.
+  - Continuar o desenvolvimento das user stories restantes.
+  - Refinar os protótipos com base no feedback recebido.
+
+A Sprint 1 foi concluída com sucesso, estabelecendo uma base sólida para o desenvolvimento do HortaShop.
+
+Release: 1.0.0
 
 ## Sprint 2 | 07/04 - 04/05
 
