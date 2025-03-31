@@ -1,6 +1,8 @@
 # Guia de Uso: Git, GitFlow e GitHub
 
-![logo](/logo/hortaShop.png)
+<div">
+  <img src="/logo/hortaShop.png" alt="logo" style="height: 10cm;">
+</div>
 
 - Índice
   - [Git](#git)

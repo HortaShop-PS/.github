@@ -1,6 +1,8 @@
 # Planejamento e Relatório das Entregas
 
-![logo](/logo/hortaShop.png)
+<div">
+  <img src="/logo/hortaShop.png" alt="logo" style="height: 10cm;">
+</div>
 
 - Índice
   - [Sprint 1 | 10/03 - 31/03](#sprint-1--1003---3103)

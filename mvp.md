@@ -1,6 +1,8 @@
 # Produto Mínimo Viável
 
-![logo](/logo/hortaShop.png)
+<div">
+  <img src="/logo/hortaShop.png" alt="logo" style="height: 10cm;">
+</div>
 
 - Índice
   - [Definindo o Propósito e Visão do HortaShop](#definindo-o-propósito-e-visão-do-hortashop)
