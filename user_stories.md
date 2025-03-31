@@ -10,11 +10,6 @@
     - [RF02 - Realizar Login](#rf02---realizar-login)
     - [RF03 - Cadastro de Produtor](#rf03---cadastro-de-produtor)
     - [RF04 - Busca e Filtros Avançados](#rf04---busca-e-filtros-avançados)
-
-    - [RF05 - Detalhes do Produto](#rf04---busca-e-filtros-avançados)
-    - [RF06 - Cadastro de Produtores](#rf04---busca-e-filtros-avançados)
-    - [RF07 - Histórico de Pedidos](#rf04---busca-e-filtros-avançados)
-
     - [RF12 - Notificações](#rf12---notificações)
     - [RF13 - Gerenciamento de Catálogo](#rf13---gerenciamento-de-catálogo)
 
@@ -74,48 +69,6 @@ Revisado por: [Gustavo](https://github.com/uGonzaguinha)
 
 <div align="center">
   <img src="/images/telas/busca.png" alt="Tela de Busca e Filtros Avançados" style="height: 10cm;">
-</div>
-
-[Subir](#user-stories)
-
-### RF05 - Detalhes do Produto
-
-Desenvolvido por: [Gustavo Gonzaga](https://github.com/uGonzaguinha)
-
-Revisado por: [Raphael](https://github.com/raphaelsales)
-
-#### Como um comprador, eu quero ver os detalhes de um produto para saber mais sobre ele antes de comprar.
-
-<div align="center">
-  <img src="/images/telas/Detalhes-produto.png" alt="Tela do Detalhes do Produto" style="height: 10cm;">
-</div>
-
-[Subir](#user-stories)
-
-### RF06 - Cadastro de Produtores
-
-Desenvolvido por: [Gustavo Gonzaga](https://github.com/uGonzaguinha)
-
-Revisado por: [Raphael](https://github.com/raphaelsales)
-
-#### Como produtor, desejo me cadastrar no aplicativo para oferecer meus produtos aos consumidores.
-
-<div align="center">
-  <img src="/images/telas/Cadastro-produtores.png" alt="Tela do Cadastro dos Produtores" style="height: 10cm;">
-</div>
-
-[Subir](#user-stories)
-
-### RF07 - Histórico de Pedidos
-
-Desenvolvido por: [Gustavo Gonzaga](https://github.com/uGonzaguinha)
-
-Revisado por: [Raphael](https://github.com/raphaelsales)
-
-#### Como comprador, quero acessar o histórico dos meus pedidos para acompanhar minhas compras anteriores.
-
-<div align="center">
-  <img src="/images/telas/Historico-pedidos.png" alt="Tela do Histórico dos Pedidos" style="height: 10cm;">
 </div>
 
 [Subir](#user-stories)
