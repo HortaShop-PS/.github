@@ -24,7 +24,9 @@ Definição da Empresa/Startup:
 - Validação do problema com Clientes: Desenvolvida por: | Revisada por: | Pull Request: .
 - Definição do MVP: Desenvolvida por: [@thiagogonzagadev](https://github.com/thiagogonzagadev) | Revisada por: [@andrebarceloschagas](https://github.com/andrebarceloschagas) | Pull Request: .
 - Prototipagem do produto no Figma: Desenvolvida por: Todos | Revisada por: [@thiagogonzagadev](https://github.com/thiagogonzagadev) | Pull Request: .
-- User Stories: Desenvolvida por: Todos | Revisada por: [@andrebarceloschagas](https://github.com/andrebarceloschagas) | Pull Request: .
+- User Stories:
+  - RF01, RF02 e RF03 - Desenvolvido por: [@thiagogonzagadev](https://github.com/thiagogonzagadev) | Revisada por: [@andrebarceloschagas](https://github.com/andrebarceloschagas) | Pull Request: .
+  - RF04, RF12 e RF13 - Desenvolvido por: [@thiagogonzagadev](https://github.com/thiagogonzagadev) | Revisada por: [@andrebarceloschagas](https://github.com/andrebarceloschagas) | Pull Request: .
 
 Relatório: .
 
