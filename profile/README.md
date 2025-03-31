@@ -1,7 +1,7 @@
 # HortaShop
 
 <div align="center">
-  <img src="/logo/hortaShop.png" alt="logo" style="height: 10cm;">
+  <img src="/images/logo/hortaShop.png" alt="logo" style="height: 7cm;">
 </div>
 
 Universidade Federal do Tocantins (UFT)

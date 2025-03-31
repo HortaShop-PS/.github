@@ -1,7 +1,7 @@
 # Produto Mínimo Viável
 
 <div align="center">
-  <img src="/logo/hortaShop.png" alt="logo" style="height: 10cm;">
+  <img src="/images/logo/hortaShop.png" alt="logo" style="height: 5cm;">
 </div>
 
 - Índice
