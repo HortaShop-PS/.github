@@ -22,9 +22,10 @@ Professor Edeilson Milhomem da Silva
   - [User Stories](#user-stories)
   - [Levantamento de Requisitos](#levantamento-de-requisitos)
   - [Prototipação](#prototipação)
+  - [Validação de Mercado e Usabilidade](#validação-de-mercado-e-usabilidade)
   - [Planejamento e Relatório de Entregas](#planejamento-e-relatório-de-entregas)
   - [Quadro Kanban](#quadro-kanban)
-  - [BackEnd](#backend)
+  - [BackEnd](#backend) 
   - [FrontEnd](#frontend)
   - [Guia de uso do Git, GitFlow e GitHub](#guia-de-uso-do-git-gitflow-e-github)
 
@@ -49,6 +50,8 @@ Professor Edeilson Milhomem da Silva
 ## [Levantamento de Requisitos](https://docs.google.com/spreadsheets/d/12s-O6yGfPm4BrYIASYmg-mTyy1VjKq881j7DcWgVwPQ/edit?gid=0#gid=0)
 
 ## [Prototipação](https://www.figma.com/proto/qBmHxZgLpY7XdVGG2g0Now/HortaShop-Telas?node-id=160-1559&p=f&t=S7wfnOBBJwhbxv5J-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=160%3A1559)
+
+## [Validação de Mercado e Usabilidade](/validacao_mercado_usabilidade.md)
 
 ## [Planejamento e Relatório de Entregas](/planejamento_entregas.md)
 
