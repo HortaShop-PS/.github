@@ -41,9 +41,11 @@ Professor Edeilson Milhomem da Silva
 - Raphael Sales - [@raphaelsales](https://github.com/raphaelsales)
 - Thiago Gonzaga dos Santos - [@thiagogonzagadev](https://github.com/thiagogonzagadev)
 
-## [Pitch](/pitch.pdf)
+## [Pitch](https://www.canva.com/design/DAGj94XQBxs/151oJxBJoCiu4VFlF1HD0w/view?utm_content=DAGj94XQBxs&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hd5462b7299)
 
 ## [Minimum Viable Product](/mvp.md)
+
+## [Plano de Negócio](https://docs.google.com/document/d/1o4KryYtrJ3clVpR95z9ySIHgG1rwS5YWhM3P-sO0Wl0/edit?usp=sharing)
 
 ## [User Stories](/user_stories.md)
 
