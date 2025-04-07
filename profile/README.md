@@ -17,6 +17,7 @@ Professor Edeilson Milhomem da Silva
 - Índice
   - [Descrição do Produto](#descrição-do-produto)
   - [Equipe](#equipe)
+  - [Pitch](#pitch)
   - [Minimum Viable Product](#descrição-do-produto)
   - [User Stories](#user-stories)
   - [Levantamento de Requisitos](#levantamento-de-requisitos)
@@ -38,6 +39,8 @@ Professor Edeilson Milhomem da Silva
 - Helorrayne Cristine  - [@HeloCris](https://github.com/HeloCris)
 - Raphael Sales - [@raphaelsales](https://github.com/raphaelsales)
 - Thiago Gonzaga dos Santos - [@thiagogonzagadev](https://github.com/thiagogonzagadev)
+
+## [Pitch](/pitch.pdf)
 
 ## [Minimum Viable Product](/mvp.md)
 
