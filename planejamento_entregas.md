@@ -38,7 +38,7 @@
 
 - **Prototipagem no Figma:**  
   👥 Todos  
-  🧪 Review: [@thiagogonzagadev](https://github.com/thiagogonzagadev)
+  🧪 Review: 👥 Todos  
 
 - **User Stories:**
   - RF01, RF02, RF03  
