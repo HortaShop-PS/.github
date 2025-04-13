@@ -22,37 +22,37 @@
 ### Atividades e Responsáveis
 
 - **Definição do Problema:**  
-  👨‍💻 [@andrebarceloschagas](https://github.com/andrebarceloschagas)  
-  🧪 Review: [@thiagogonzagadev](https://github.com/thiagogonzagadev)
+  👨‍💻 Desenvolvido por: [@andrebarceloschagas](https://github.com/andrebarceloschagas)  
+  ✅ Revisado por: [@thiagogonzagadev](https://github.com/thiagogonzagadev)
 
 - **Modelo Canvas:**  
-  👩‍💻 [@HeloCris](https://github.com/HeloCris)  
-  🧪 Review: [@andrebarceloschagas](https://github.com/andrebarceloschagas)
+  👨‍💻 Desenvolvido por: [@HeloCris](https://github.com/HeloCris)  
+  ✅ Revisado por: [@andrebarceloschagas](https://github.com/andrebarceloschagas)
 
 - **Validação do Problema com Clientes:**  
   [Validação de Mercado e Usabilidade](/validacao_mercado_usabilidade.md)
 
 - **Definição do MVP:**  
-  👨‍💻 [@thiagogonzagadev](https://github.com/thiagogonzagadev)  
-  🧪 Review: [@andrebarceloschagas](https://github.com/andrebarceloschagas)
+  👨‍💻 Desenvolvido por: [@thiagogonzagadev](https://github.com/thiagogonzagadev)  
+  ✅ Revisado por: [@andrebarceloschagas](https://github.com/andrebarceloschagas)
 
 - **Prototipagem no Figma:**  
-  👥 Todos  
+  👨‍💻 Desenvolvido por:  Todos  
   [Prototípo no Figma](https://www.figma.com/proto/qBmHxZgLpY7XdVGG2g0Now/HortaShop-Telas?node-id=160-1559&p=f&t=S7wfnOBBJwhbxv5J-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=160%3A1559)  
 
 - **User Stories:**
   - RF01, RF02, RF03  
-    👨‍💻 [@thiagogonzagadev](https://github.com/thiagogonzagadev)  
-    🧪 Review: [@andrebarceloschagas](https://github.com/andrebarceloschagas)
+    👨‍💻 Desenvolvido por: [@thiagogonzagadev](https://github.com/thiagogonzagadev)  
+    ✅ Revisado por: [@andrebarceloschagas](https://github.com/andrebarceloschagas)
   - RF04, RF12, RF13  
-    👨‍💻 [@andrebarceloschagas](https://github.com/andrebarceloschagas)  
-    🧪 Review: [@uGonzaguinha](https://github.com/uGonzaguinha)
+    👨‍💻 Desenvolvido por: [@andrebarceloschagas](https://github.com/andrebarceloschagas)  
+    ✅ Revisado por: [@uGonzaguinha](https://github.com/uGonzaguinha)
   - RF05, RF06, FR07  
-    👨‍💻 [@uGonzaguinha](https://github.com/uGonzaguinha)  
-    🧪 Review: [@raphaelsales](https://github.com/raphaelsales)
+    👨‍💻 Desenvolvido por: [@uGonzaguinha](https://github.com/uGonzaguinha)  
+    ✅ Revisado por: [@raphaelsales](https://github.com/raphaelsales)
   - RF08, RF09, RF11  
-    👨‍💻 [@raphaelsales](https://github.com/raphaelsales)  
-    🧪 Review: [@uGonzaguinha](https://github.com/uGonzaguinha)
+    👨‍💻 Desenvolvido por: [@raphaelsales](https://github.com/raphaelsales)  
+    ✅ Revisado por: [@uGonzaguinha](https://github.com/uGonzaguinha)
 
 **Resumo:** Essa etapa foi fundamental para alinhar a visão do produto, definir suas funcionalidades básicas e preparar a equipe para o início do desenvolvimento.
 
@@ -73,12 +73,12 @@
 - **Frontend:**
   - Tela de Login  
     👨‍💻 Dev: [@andrebarceloschagas](https://github.com/andrebarceloschagas)  
-    🧪 Review: [@thiagogonzagadev](https://github.com/thiagogonzagadev)  
+    ✅ Revisado por: [@thiagogonzagadev](https://github.com/thiagogonzagadev)  
     🔗 PR: *[link]*
 
   - Tela de Cadastro  
-    👩‍💻 Dev: [@HeloCris](https://github.com/HeloCris)  
-    🧪 Review: [@uGonzaguinha](https://github.com/uGonzaguinha)  
+    👨‍💻 Dev: [@HeloCris](https://github.com/HeloCris)  
+    ✅ Revisado por: [@uGonzaguinha](https://github.com/uGonzaguinha)  
     🔗 PR: *[link]*
 
 #### Home
@@ -89,7 +89,7 @@
 - **Frontend:**  
   - Tela Home (com mapa)  
     👨‍💻 Dev: [@raphaelsales](https://github.com/raphaelsales)  
-    🧪 Review: [@andrebarceloschagas](https://github.com/andrebarceloschagas)  
+    ✅ Revisado por: [@andrebarceloschagas](https://github.com/andrebarceloschagas)  
     🔗 PR: *[link]*
 
 #### Perfil
@@ -101,12 +101,12 @@
 - **Frontend:**
   - Tela de Perfil  
     👨‍💻 Dev: [@thiagogonzagadev](https://github.com/thiagogonzagadev)  
-    🧪 Review: [@HeloCris](https://github.com/HeloCris)  
+    ✅ Revisado por: [@HeloCris](https://github.com/HeloCris)  
     🔗 PR: *[link]*
 
   - Tela de Editar Perfil  
     👨‍💻 Dev: [@uGonzaguinha](https://github.com/uGonzaguinha)  
-    🧪 Review: [@raphaelsales](https://github.com/raphaelsales)  
+    ✅ Revisado por: [@raphaelsales](https://github.com/raphaelsales)  
     🔗 PR: *[link]*
 
 #### Participação Cruzada
