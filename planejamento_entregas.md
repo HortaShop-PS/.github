@@ -125,7 +125,7 @@
 
 ## 🛒 Sprint 2 | 06/05 - 19/05
 
-**Valor:** Catálogo de produtos pesquisável, visualização de entregas próximas e sistema de aceitação/rejeição de pedidos.
+**Valor:** Permitir a navegação e descoberta de produtos com filtros inteligentes, além de iniciar o fluxo logístico com visualização e controle de pedidos disponíveis.
 
 ### Funcionalidades
 - Tela de Catálogo de Produtos
