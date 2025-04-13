@@ -38,7 +38,7 @@
 
 - **Prototipagem no Figma:**  
   👥 Todos  
-  🧪 Review: 👥 Todos  
+  [Prototípo no Figma](https://www.figma.com/proto/qBmHxZgLpY7XdVGG2g0Now/HortaShop-Telas?node-id=160-1559&p=f&t=S7wfnOBBJwhbxv5J-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=160%3A1559)  
 
 - **User Stories:**
   - RF01, RF02, RF03  
