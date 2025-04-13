@@ -1,131 +1,163 @@
-# Planejamento e Relatório das Entregas
+# 📦 Planejamento e Relatório das Entregas
 
-<div align="center">
-  <img src="/images/logo/hortaShop.png" alt="logo" style="height: 5cm;">
-</div>
+<p align="center">
+  <img src="/images/logo/hortaShop.png" alt="logo" height="200">
+</p>
 
 - Índice
-  - [Sprint 1 | 10/03 - 31/03](#sprint-1--1003---3103)
-  - [Sprint 2 | 07/04 - 04/05](#sprint-2--0704---0405)
-  - [Sprint 3 | 05/05 - 19/05](#sprint-3--0505---1905)
-  - [Sprint 4 | 20/05 - 02/06](#sprint-4--2005---0206)
-  - [Sprint 5 | 03/06 - 16/06](#sprint-5--0306---1606)
+  - [Entregas Iniciais (Pré-Sprint)](#entregas-iniciais-pré-sprint)
+  - [Sprint 1 | 07/04 - 05/05](#sprint-1--0704---0505)
+  - [Sprint 2 | 06/05 - 19/05](#sprint-2--0605---1905)
+  - [Sprint 3 | 20/05 - 02/06](#sprint-3--2005---0206)
+  - [Sprint 4 | 03/06 - 16/06](#sprint-4--0306---1606)
 
 [Voltar ao README](https://github.com/HortaShop-PS)
 
-## Sprint 1 | 10/03 - 31/03
+---
 
-Valor: Estabelecer as bases do projeto, alinhando a visão do produto e garantindo um planejamento sólido para o desenvolvimento.
+## 📌 Entregas Iniciais (Pré-Sprint)
 
-Definição da Empresa/Startup:
+**Objetivo:** Levantamento de requisitos, alinhamento do projeto e definição do produto.
 
-- Definição do Problema: Desenvolvida por: [@andrebarceloschagas](https://github.com/andrebarceloschagas) | Revisada por: [@thiagogonzagadev](https://github.com/thiagogonzagadev) | Pull Request: #2
-- Modelo Canvas: Desenvolvida por: [@HeloCris](https://github.com/HeloCris) | Revisada por: [@andrebarceloschagas](https://github.com/andrebarceloschagas) | Pull Request: #7
-- Validação do problema com Clientes: Desenvolvida por: | Revisada por: | Pull Request: .
-- Definição do MVP: Desenvolvida por: [@thiagogonzagadev](https://github.com/thiagogonzagadev) | Revisada por: [@andrebarceloschagas](https://github.com/andrebarceloschagas) | Pull Request: #1
-- Prototipagem do produto no Figma: Desenvolvida por: Todos | Revisada por: [@thiagogonzagadev](https://github.com/thiagogonzagadev) | Pull Request: #1
-- User Stories:
-  - RF01, RF02 e RF03 - Desenvolvido por: [@thiagogonzagadev](https://github.com/thiagogonzagadev) | Revisada por: [@andrebarceloschagas](https://github.com/andrebarceloschagas) | Pull Request: #3
-  - RF04, RF12 e RF13 - Desenvolvido por: [@andrebarceloschagas](https://github.com/andrebarceloschagas) | Revisada por: [@uGonzaguinha](https://github.com/uGonzaguinha) | Pull Request: #4
-  - RF05, RF06, FR07 - Desenvolvido por: [@uGonzaguinha](https://github.com/uGonzaguinha) | Revisada por: [@raphaelsales](https://github.com/raphaelsales) | Pull Request: #5
-  - RF08, RF09, RF11 - Desenvolvido por: [@raphaelsales](https://github.com/raphaelsales) | Revisada por: [@uGonzaguinha](https://github.com/uGonzaguinha) | Pull Request: #6
+### Atividades e Responsáveis
 
-Relatório: Durante a Sprint 1, o foco principal foi estabelecer as bases do projeto, incluindo a definição da empresa/startup, o planejamento inicial e a criação das primeiras user stories. As entregas realizadas nesta sprint foram fundamentais para alinhar a visão do produto e preparar o desenvolvimento das funcionalidades principais.
+- **Definição do Problema:**  
+  👨‍💻 [@andrebarceloschagas](https://github.com/andrebarceloschagas)  
+  🧪 Review: [@thiagogonzagadev](https://github.com/thiagogonzagadev)
 
-- Entregas Realizadas:
-  - **Definição do Problema**: Documentação criada e revisada para identificar os principais desafios enfrentados pelos clientes e produtores.
-  - **Modelo Canvas**: Estruturado para mapear os principais elementos do negócio, como proposta de valor, segmentos de clientes e canais.
-  - **Definição do MVP**: Identificação das funcionalidades essenciais para o lançamento inicial do produto.
-  - **Prototipagem no Figma**: Criação de protótipos iniciais para as telas principais, como login, cadastro e home.
-  - **User Stories**: Desenvolvimento e revisão das user stories RF01, RF02, RF03, RF04, RF12 e RF13, cobrindo autenticação, cadastro e gerenciamento de catálogo.
+- **Modelo Canvas:**  
+  👩‍💻 [@HeloCris](https://github.com/HeloCris)  
+  🧪 Review: [@andrebarceloschagas](https://github.com/andrebarceloschagas)
 
-- Pontos Positivos:
-  - Alinhamento claro entre os membros da equipe sobre os objetivos do projeto.
-  - Entregas realizadas dentro do prazo planejado.
-  - Colaboração eficiente entre os desenvolvedores e revisores.
+- **Validação do Problema com Clientes:**  
+  [Validação de Mercado e Usabilidade](/validacao_mercado_usabilidade.md)
 
-- Pontos de Melhoria:
-  - Melhorar a comunicação com os stakeholders para validar as entregas realizadas.
-  - Aumentar a frequência de reuniões para acompanhar o progresso das tarefas.
+- **Definição do MVP:**  
+  👨‍💻 [@thiagogonzagadev](https://github.com/thiagogonzagadev)  
+  🧪 Review: [@andrebarceloschagas](https://github.com/andrebarceloschagas)
 
-- Próximos Passos:
-  - Implementar as funcionalidades básicas de autenticação e cadastro na Sprint 2.
-  - Continuar o desenvolvimento das user stories restantes.
-  - Refinar os protótipos com base no feedback recebido.
+- **Prototipagem no Figma:**  
+  👥 Todos  
+  🧪 Review: [@thiagogonzagadev](https://github.com/thiagogonzagadev)
 
-A Sprint 1 foi concluída com sucesso, estabelecendo uma base sólida para o desenvolvimento do HortaShop.
+- **User Stories:**
+  - RF01, RF02, RF03  
+    👨‍💻 [@thiagogonzagadev](https://github.com/thiagogonzagadev)  
+    🧪 Review: [@andrebarceloschagas](https://github.com/andrebarceloschagas)
+  - RF04, RF12, RF13  
+    👨‍💻 [@andrebarceloschagas](https://github.com/andrebarceloschagas)  
+    🧪 Review: [@uGonzaguinha](https://github.com/uGonzaguinha)
+  - RF05, RF06, FR07  
+    👨‍💻 [@uGonzaguinha](https://github.com/uGonzaguinha)  
+    🧪 Review: [@raphaelsales](https://github.com/raphaelsales)
+  - RF08, RF09, RF11  
+    👨‍💻 [@raphaelsales](https://github.com/raphaelsales)  
+    🧪 Review: [@uGonzaguinha](https://github.com/uGonzaguinha)
 
-Release: 1.0.0
+**Resumo:** Essa etapa foi fundamental para alinhar a visão do produto, definir suas funcionalidades básicas e preparar a equipe para o início do desenvolvimento.
 
-## Sprint 2 | 07/04 - 04/05
+---
 
-Valor: Funcionalidades básicas de autenticação e perfis de usuário para ambos os aplicativos.
+## 🔐 Sprint 1 | 07/04 - 05/05
 
-Core da Plataforma e Cadastro:
+**Valor:** Estabelecer a base de acesso dos usuários, com login, cadastro e gerenciamento de perfil, garantindo segurança e personalização desde o início da experiência.
 
-- Tela de Login: Desenvolvida por: [@andrebarceloschagas](https://github.com/andrebarceloschagas) | Revisada por: [@thiagogonzagadev](https://github.com/thiagogonzagadev) | Pull Request: .
-- Tela de Cadastro (produtor e consumidor): Desenvolvida por: [@HeloCris](https://github.com/HeloCris) | Revisada por: [@uGonzaguinha](https://github.com/uGonzaguinha) | Pull Request: .
-- Tela Home (inicial): Desenvolvida por: [@raphaelsales](https://github.com/raphaelsales) | Revisada por: [@andrebarceloschagas](https://github.com/andrebarceloschagas) | Pull Request: .
-- Tela de Perfil (produtor e consumidor): Desenvolvida por: [@thiagogonzagadev](https://github.com/thiagogonzagadev) | Revisada por: [@HeloCris](https://github.com/HeloCris) | Pull Request: .
-- Tela de Editar Perfil (produtor e consumidor): Desenvolvida por: [@uGonzaguinha](https://github.com/uGonzaguinha) | Revisada por: [@raphaelsales](https://github.com/raphaelsales) | Pull Request: .
-- Tela de Login: Desenvolvida por: [@andrebarceloschagas](https://github.com/andrebarceloschagas) | Revisada por: [@thiagogonzagadev](https://github.com/thiagogonzagadev) | Pull Request: .
-- Tela de Cadastro: Desenvolvida por: [@HeloCris](https://github.com/HeloCris) | Revisada por: [@uGonzaguinha](https://github.com/uGonzaguinha) | Pull Request: .
-- Tela Home (com mapa): Desenvolvida por: [@raphaelsales](https://github.com/raphaelsales) | Revisada por: [@andrebarceloschagas](https://github.com/andrebarceloschagas) | Pull Request: .
-- Tela de Perfil: Desenvolvida por: [@thiagogonzagadev](https://github.com/thiagogonzagadev) | Revisada por: [@HeloCris](https://github.com/HeloCris) | Pull Request: .
-- Tela de Editar Perfil: Desenvolvida por: [@uGonzaguinha](https://github.com/uGonzaguinha) | Revisada por: [@raphaelsales](https://github.com/raphaelsales) | Pull Request: .
+### Funcionalidades e Distribuição
 
-Relatório: .
+#### Autenticação (Login e Cadastro)
 
-Release: .
+- **Backend:**
+  - Endpoint de Login: [@andrebarceloschagas](https://github.com/andrebarceloschagas)
+  - Endpoint de Cadastro: [@HeloCris](https://github.com/HeloCris)
 
-## Sprint 3 | 05/05 - 19/05
+- **Frontend:**
+  - Tela de Login  
+    👨‍💻 Dev: [@andrebarceloschagas](https://github.com/andrebarceloschagas)  
+    🧪 Review: [@thiagogonzagadev](https://github.com/thiagogonzagadev)  
+    🔗 PR: *[link]*
 
-Valor: Catálogo de produtos pesquisável, visualização de entregas próximas e sistema de aceitação/rejeição de pedidos.
+  - Tela de Cadastro  
+    👩‍💻 Dev: [@HeloCris](https://github.com/HeloCris)  
+    🧪 Review: [@uGonzaguinha](https://github.com/uGonzaguinha)  
+    🔗 PR: *[link]*
 
-Catálogo, Busca e Geolocalização:
+#### Home
 
-- Tela de Catálogo de Produtos:
-- Filtros de Busca (por tipo de produto, região):
-- Detalhes do Produto:
-- Visualização de Pedidos Disponíveis (próximos):
-- Aceitar/Rejeitar Pedido:
-- Integração com Google Maps (para rotas):
+- **Backend:**  
+  - Endpoint para dados iniciais: [@raphaelsales](https://github.com/raphaelsales)
 
-Relatório: .
+- **Frontend:**  
+  - Tela Home (com mapa)  
+    👨‍💻 Dev: [@raphaelsales](https://github.com/raphaelsales)  
+    🧪 Review: [@andrebarceloschagas](https://github.com/andrebarceloschagas)  
+    🔗 PR: *[link]*
 
-Release: .
+#### Perfil
 
-## Sprint 4 | 20/05 - 02/06
+- **Backend:**
+  - Buscar Perfil: [@thiagogonzagadev](https://github.com/thiagogonzagadev)
+  - Editar Perfil: [@uGonzaguinha](https://github.com/uGonzaguinha)
 
-Valor: Fluxo completo de pedidos para clientes/produtores e sistema de gerenciamento de entregas para entregadores.
+- **Frontend:**
+  - Tela de Perfil  
+    👨‍💻 Dev: [@thiagogonzagadev](https://github.com/thiagogonzagadev)  
+    🧪 Review: [@HeloCris](https://github.com/HeloCris)  
+    🔗 PR: *[link]*
 
-Sistema de Pedidos e Rastreamento:
+  - Tela de Editar Perfil  
+    👨‍💻 Dev: [@uGonzaguinha](https://github.com/uGonzaguinha)  
+    🧪 Review: [@raphaelsales](https://github.com/raphaelsales)  
+    🔗 PR: *[link]*
 
-- Carrinho de Compras:
-- Tela de Checkout:
-- Opções de Entrega/Retirada:
-- Integração com Meios de Pagamento (PIX e cartão):
-- Iniciar Entrega:
-- Atualizar Status da Entrega (coletado, em rota, entregue):
-- Chat com o Cliente/Produtor:
+#### Participação Cruzada
 
-Relatório: .
+| Membro               | Frontend              | Backend                    |
+|----------------------|------------------------|-----------------------------|
+| @andrebarceloschagas | Tela de Login          | Endpoint de Login           |
+| @HeloCris            | Tela de Cadastro       | Endpoint de Cadastro        |
+| @raphaelsales        | Tela Home              | Endpoint da Home            |
+| @thiagogonzagadev    | Tela de Perfil         | Endpoint de Buscar Perfil   |
+| @uGonzaguinha        | Tela de Editar Perfil  | Endpoint de Editar Perfil   |
 
-Release: .
+**Release:** *pendente*
 
-## Sprint 5 | 03/06 - 16/06
+---
 
-Valor: Funcionalidades de avaliação, histórico e melhorias gerais na plataforma para ambos os aplicativos.
+## 🛒 Sprint 2 | 06/05 - 19/05
 
-Avaliação, Refinamento e Histórico:
+**Valor:** Catálogo de produtos pesquisável, visualização de entregas próximas e sistema de aceitação/rejeição de pedidos.
 
-- Sistema de Avaliação de Produtores:
-- Histórico de Pedidos (Clientes/Produtores):
-- Refinamento da Interface e Correção de Bugs:
-- Histórico de Entregas:
-- Avaliação do Cliente/Produtor:
-- Refinamento da Interface e Correção de Bugs:
+### Funcionalidades
+- Tela de Catálogo de Produtos
+- Filtros de Busca (tipo de produto, região)
+- Detalhes do Produto
+- Visualização de Pedidos Disponíveis (próximos)
+- Aceitar/Rejeitar Pedido
+- Integração com Google Maps (rotas)
 
-Relatório: .
+**Release:** *pendente*
 
-Release: .
+---
+
+## 🚚 Sprint 3 | 20/05 - 02/06
+
+**Valor:** Implementar o ciclo completo de pedidos, do carrinho ao pagamento e entrega, integrando clientes, produtores e entregadores em uma experiência fluida.
+
+### Funcionalidades
+- Carrinho de Compras
+- Tela de Checkout
+- Opções de Entrega/Retirada
+- Integração com Meios de Pagamento (PIX e Cartão)
+- Iniciar Entrega
+- Atualizar Status da Entrega (coletado, em rota, entregue)
+- Chat com Cliente/Produtor
+
+**Release:** *pendente*
+
+---
+
+## 📦 Sprint 4 | 03/06 - 16/06
+
+*(Conteúdo ainda não inserido)*
+
+---
