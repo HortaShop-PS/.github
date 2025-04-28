@@ -58,7 +58,7 @@
 
 ---
 
-## 🔐 Sprint 1 | 07/04 - 05/05
+## 🔐 Sprint 1 | 07/04 - 28/04
 
 **Valor:** Estabelecer a base de acesso dos usuários, com login, cadastro e gerenciamento de perfil, garantindo segurança e personalização desde o início da experiência.
 
@@ -68,46 +68,50 @@
 
 - **Backend:**
   - Endpoint de Login: [@andrebarceloschagas](https://github.com/andrebarceloschagas)
+      🔗 PR: *[link](https://github.com/HortaShop-PS/BackEnd/pull/4)*
   - Endpoint de Cadastro: [@HeloCris](https://github.com/HeloCris)
+      🔗 PR: *[link](https://github.com/HortaShop-PS/BackEnd/pull/8)*
 
 - **Frontend:**
   - Tela de Login  
     👨‍💻 Dev: [@andrebarceloschagas](https://github.com/andrebarceloschagas)  
     ✅ Revisado por: [@thiagogonzagadev](https://github.com/thiagogonzagadev)  
-    🔗 PR: *[link]*
+    🔗 PR: *[link](https://github.com/HortaShop-PS/FrontEnd/pull/9)*
 
   - Tela de Cadastro  
     👨‍💻 Dev: [@HeloCris](https://github.com/HeloCris)  
     ✅ Revisado por: [@uGonzaguinha](https://github.com/uGonzaguinha)  
-    🔗 PR: *[link]*
+    🔗 PR: *[link](https://github.com/HortaShop-PS/FrontEnd/pull/15)*
 
 #### Home
 
 - **Backend:**  
-  - Endpoint para dados iniciais: [@raphaelsales](https://github.com/raphaelsales)
+  - Endpoint para dados da tela inicial: [@raphaelsales](https://github.com/raphaelsales)
+      🔗 PR: *[link](https://github.com/HortaShop-PS/BackEnd/pull/3)*
 
 - **Frontend:**  
-  - Tela Home (com mapa)  
+  - Tela Home 
     👨‍💻 Dev: [@raphaelsales](https://github.com/raphaelsales)  
     ✅ Revisado por: [@andrebarceloschagas](https://github.com/andrebarceloschagas)  
-    🔗 PR: *[link]*
+    🔗 PR: *[link](https://github.com/HortaShop-PS/FrontEnd/pull/8)*
 
 #### Perfil
 
 - **Backend:**
-  - Buscar Perfil: [@thiagogonzagadev](https://github.com/thiagogonzagadev)
+  - Buscar Perfil: [@thiagogonzagadev](https://github.com/thiagogonzagadev)           
+      🔗 PR: *[link](https://github.com/HortaShop-PS/BackEnd/pull/1)*
   - Editar Perfil: [@uGonzaguinha](https://github.com/uGonzaguinha)
-
+      🔗 PR: *[link](https://github.com/HortaShop-PS/BackEnd/pull/9)*
 - **Frontend:**
   - Tela de Perfil  
     👨‍💻 Dev: [@thiagogonzagadev](https://github.com/thiagogonzagadev)  
     ✅ Revisado por: [@HeloCris](https://github.com/HeloCris)  
-    🔗 PR: *[link]*
+    🔗 PR: *[link](https://github.com/HortaShop-PS/FrontEnd/pull/14)*
 
   - Tela de Editar Perfil  
     👨‍💻 Dev: [@uGonzaguinha](https://github.com/uGonzaguinha)  
     ✅ Revisado por: [@raphaelsales](https://github.com/raphaelsales)  
-    🔗 PR: *[link]*
+    🔗 PR: *[link](https://github.com/HortaShop-PS/FrontEnd/pull/16)*
 
 #### Participação Cruzada
 
@@ -123,7 +127,7 @@
 
 ---
 
-## 🛒 Sprint 2 | 06/05 - 19/05
+## 🛒 Sprint 2 | 28/04 - 12/05
 
 **Valor:** Permitir a navegação e descoberta de produtos com filtros inteligentes, além de iniciar o fluxo logístico com visualização e controle de pedidos disponíveis.
 
@@ -139,7 +143,7 @@
 
 ---
 
-## 🚚 Sprint 3 | 20/05 - 02/06
+## 🚚 Sprint 3 | 12/05 - 26/05
 
 **Valor:** Implementar o ciclo completo de pedidos, do carrinho ao pagamento e entrega, integrando clientes, produtores e entregadores em uma experiência fluida.
 
@@ -156,7 +160,7 @@
 
 ---
 
-## 📦 Sprint 4 | 03/06 - 16/06
+## 📦 Sprint 4 | 26/05 - 9/06
 
 *(Conteúdo ainda não inserido)*
 
