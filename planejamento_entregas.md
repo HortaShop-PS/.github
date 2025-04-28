@@ -123,24 +123,93 @@
 | @thiagogonzagadev    | Tela de Perfil         | Endpoint de Buscar Perfil   |
 | @uGonzaguinha        | Tela de Editar Perfil  | Endpoint de Editar Perfil   |
 
-**Release:** *pendente*
+**Release:** *[Release v0.1.0](https://github.com/HortaShop-PS/FrontEnd/releases/tag/v0.1.0)*
 
 ---
 
-## 🛒 Sprint 2 | 28/04 - 12/05
+
+
+          
+# 🛒 Sprint 2 | 28/04 - 12/05
 
 **Valor:** Permitir a navegação e descoberta de produtos com filtros inteligentes, além de iniciar o fluxo logístico com visualização e controle de pedidos disponíveis.
 
-### Funcionalidades
-- Tela de Catálogo de Produtos
-- Filtros de Busca (tipo de produto, região)
-- Detalhes do Produto
-- Visualização de Pedidos Disponíveis (próximos)
-- Aceitar/Rejeitar Pedido
-- Integração com Google Maps (rotas)
+### Funcionalidades e Distribuição
+
+#### Catálogo de Produtos
+
+- **Backend:**
+  - Endpoint de Listagem de Produtos: [@thiagogonzagadev](https://github.com/thiagogonzagadev)
+      🔗 PR: *[link pendente]*
+  - Endpoint de Filtros de Busca: [@HeloCris](https://github.com/HeloCris)
+      🔗 PR: *[link pendente]*
+
+- **Frontend:**
+  - Tela de Catálogo de Produtos  
+    👨‍💻 Dev: [@thiagogonzagadev](https://github.com/thiagogonzagadev)  
+    ✅ Revisado por: [@andrebarceloschagas](https://github.com/andrebarceloschagas)  
+    🔗 PR: *[link pendente]*
+
+  - Implementação de Filtros de Busca  
+    👨‍💻 Dev: [@HeloCris](https://github.com/HeloCris)  
+    ✅ Revisado por: [@raphaelsales](https://github.com/raphaelsales)  
+    🔗 PR: *[link pendente]*
+
+#### Detalhes do Produto
+
+- **Backend:**  
+  - Endpoint de Detalhes do Produto: [@andrebarceloschagas](https://github.com/andrebarceloschagas)
+      🔗 PR: *[link pendente]*
+
+- **Frontend:**  
+  - Tela de Detalhes do Produto 
+    👨‍💻 Dev: [@andrebarceloschagas](https://github.com/andrebarceloschagas)  
+    ✅ Revisado por: [@uGonzaguinha](https://github.com/uGonzaguinha)  
+    🔗 PR: *[link pendente]*
+
+#### Pedidos Disponíveis
+
+- **Backend:**
+  - Endpoint de Listagem de Pedidos: [@uGonzaguinha](https://github.com/uGonzaguinha)           
+      🔗 PR: *[link pendente]*
+  - Endpoint de Aceitar/Rejeitar Pedido: [@raphaelsales](https://github.com/raphaelsales)
+      🔗 PR: *[link pendente]*
+- **Frontend:**
+  - Tela de Visualização de Pedidos  
+    👨‍💻 Dev: [@uGonzaguinha](https://github.com/uGonzaguinha)  
+    ✅ Revisado por: [@thiagogonzagadev](https://github.com/thiagogonzagadev)  
+    🔗 PR: *[link pendente]*
+
+  - Funcionalidade de Aceitar/Rejeitar Pedido  
+    👨‍💻 Dev: [@raphaelsales](https://github.com/raphaelsales)  
+    ✅ Revisado por: [@HeloCris](https://github.com/HeloCris)  
+    🔗 PR: *[link pendente]*
+
+#### Integração com Google Maps
+
+- **Backend:**
+  - Endpoint de Rotas: [@raphaelsales](https://github.com/raphaelsales)
+      🔗 PR: *[link pendente]*
+
+- **Frontend:**
+  - Implementação do Mapa e Rotas  
+    👨‍💻 Dev: [@thiagogonzagadev](https://github.com/thiagogonzagadev)  
+    ✅ Revisado por: [@andrebarceloschagas](https://github.com/andrebarceloschagas)  
+    🔗 PR: *[link pendente]*
+
+#### Participação Cruzada
+
+| Membro               | Frontend                        | Backend                         |
+|----------------------|---------------------------------|----------------------------------|
+| @andrebarceloschagas | Tela de Detalhes do Produto     | Endpoint de Detalhes do Produto |
+| @HeloCris            | Implementação de Filtros        | Endpoint de Filtros de Busca    |
+| @raphaelsales        | Aceitar/Rejeitar Pedido         | Endpoint de Rotas               |
+| @thiagogonzagadev    | Catálogo e Implementação do Mapa| Endpoint de Listagem de Produtos|
+| @uGonzaguinha        | Visualização de Pedidos         | Endpoint de Listagem de Pedidos |
 
 **Release:** *pendente*
 
+        Too many current requests. Your queue position is 1. Please wait for a while or switch to other models for a smoother experience.
 ---
 
 ## 🚚 Sprint 3 | 12/05 - 26/05
