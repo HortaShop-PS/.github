@@ -6,10 +6,10 @@
 
 - Índice
   - [Entregas Iniciais (Pré-Sprint)](#entregas-iniciais-pré-sprint)
-  - [Sprint 1 | 07/04 - 05/05](#sprint-1--0704---0505)
-  - [Sprint 2 | 06/05 - 19/05](#sprint-2--0605---1905)
-  - [Sprint 3 | 20/05 - 02/06](#sprint-3--2005---0206)
-  - [Sprint 4 | 03/06 - 16/06](#sprint-4--0306---1606)
+  - [Sprint 1 | 07/04 - 28/04](#-sprint-1--0704---2804)
+  - [Sprint 2 | 28/04 - 12/05](#-sprint-2--2804---1205)
+  - [Sprint 3 | 12/05 - 26/05](#-sprint-3--1205---2605)
+  - [Sprint 4 | 26/05 - 09/06](#-sprint-4--2605---0906)
 
 [Voltar ao README](https://github.com/HortaShop-PS)
 
@@ -127,89 +127,79 @@
 
 ---
 
-
-
-          
 # 🛒 Sprint 2 | 28/04 - 12/05
 
-**Valor:** Permitir a navegação e descoberta de produtos com filtros inteligentes, além de iniciar o fluxo logístico com visualização e controle de pedidos disponíveis.
+**Valor:** Implementar gestão completa de produtores, catálogo personalizado com sistema de busca integrado e funcionalidades de favoritos.
 
 ### Funcionalidades e Distribuição
 
-#### Catálogo de Produtos
-
+#### Cadastro de Produtores
 - **Backend:**
-  - Endpoint de Listagem de Produtos: [@thiagogonzagadev](https://github.com/thiagogonzagadev)
-      🔗 PR: *[link pendente]*
-  - Endpoint de Filtros de Busca: [@HeloCris](https://github.com/HeloCris)
-      🔗 PR: *[link pendente]*
-
-- **Frontend:**
-  - Tela de Catálogo de Produtos  
-    👨‍💻 Dev: [@thiagogonzagadev](https://github.com/thiagogonzagadev)  
+  - Endpoint de Cadastro de Produtor: [@HeloCris](https://github.com/HeloCris)
     ✅ Revisado por: [@andrebarceloschagas](https://github.com/andrebarceloschagas)  
     🔗 PR: *[link pendente]*
-
-  - Implementação de Filtros de Busca  
-    👨‍💻 Dev: [@HeloCris](https://github.com/HeloCris)  
-    ✅ Revisado por: [@raphaelsales](https://github.com/raphaelsales)  
-    🔗 PR: *[link pendente]*
-
-#### Detalhes do Produto
-
-- **Backend:**  
-  - Endpoint de Detalhes do Produto: [@andrebarceloschagas](https://github.com/andrebarceloschagas)
-      🔗 PR: *[link pendente]*
-
-- **Frontend:**  
-  - Tela de Detalhes do Produto 
-    👨‍💻 Dev: [@andrebarceloschagas](https://github.com/andrebarceloschagas)  
-    ✅ Revisado por: [@uGonzaguinha](https://github.com/uGonzaguinha)  
-    🔗 PR: *[link pendente]*
-
-#### Pedidos Disponíveis
-
-- **Backend:**
-  - Endpoint de Listagem de Pedidos: [@uGonzaguinha](https://github.com/uGonzaguinha)           
-      🔗 PR: *[link pendente]*
-  - Endpoint de Aceitar/Rejeitar Pedido: [@raphaelsales](https://github.com/raphaelsales)
-      🔗 PR: *[link pendente]*
+      
 - **Frontend:**
-  - Tela de Visualização de Pedidos  
+  - Tela de Cadastro de Produtor  
     👨‍💻 Dev: [@uGonzaguinha](https://github.com/uGonzaguinha)  
+    ✅ Revisado por: [@andrebarceloschagas](https://github.com/andrebarceloschagas)
+
+#### Gestão de Catálogo
+- **Backend:**
+  - Endpoint de Registro de Produtos: [@andrebarceloschagas](https://github.com/andrebarceloschagas)
     ✅ Revisado por: [@thiagogonzagadev](https://github.com/thiagogonzagadev)  
     🔗 PR: *[link pendente]*
 
-  - Funcionalidade de Aceitar/Rejeitar Pedido  
-    👨‍💻 Dev: [@raphaelsales](https://github.com/raphaelsales)  
-    ✅ Revisado por: [@HeloCris](https://github.com/HeloCris)  
-    🔗 PR: *[link pendente]*
-
-#### Integração com Google Maps
-
-- **Backend:**
-  - Endpoint de Rotas: [@raphaelsales](https://github.com/raphaelsales)
-      🔗 PR: *[link pendente]*
-
 - **Frontend:**
-  - Implementação do Mapa e Rotas  
-    👨‍💻 Dev: [@thiagogonzagadev](https://github.com/thiagogonzagadev)  
-    ✅ Revisado por: [@andrebarceloschagas](https://github.com/andrebarceloschagas)  
+  - Tela de Cadastro de Produtos  
+    👨‍💻 Dev: [@andrebarceloschagas](https://github.com/andrebarceloschagas)  
+    ✅ Revisado por: [@uGonzaguinha](https://github.com/uGonzaguinha)
+
+#### Favoritos
+- **Backend:**
+  - Endpoint de Favoritos: [@thiagogonzagadev](https://github.com/thiagogonzagadev)
+    ✅ Revisado por: [@raphaelsales](https://github.com/raphaelsales)  
     🔗 PR: *[link pendente]*
+      
+- **Frontend:**
+  - Tela de Favoritos  
+    👨‍💻 Dev: [@thiagogonzagadev](https://github.com/thiagogonzagadev)  
+    ✅ Revisado por: [@raphaelsales](https://github.com/raphaelsales)
+
+#### Detalhes do Produto
+- **Backend:**
+  - Endpoint de Detalhes do Produto: [@thiagogonzagadev](https://github.com/thiagogonzagadev)
+      ✅ Revisado por: [@HeloCris](https://github.com/HeloCris)
+      🔗 PR: *[link pendente]*
+      
+- **Frontend:**
+  - Tela de Detalhes do Produto  
+    👨‍💻 Dev: [@thiagogonzagadev](https://github.com/thiagogonzagadev)  
+    ✅ Revisado por: [@HeloCris](https://github.com/HeloCris)
+
+#### Busca e Filtros
+- **Backend:**
+  - Endpoint de Busca Avançada: [@raphaelsales](https://github.com/raphaelsales)
+    ✅ Revisado por: [@uGonzaguinha](https://github.com/uGonzaguinha)  
+    🔗 PR: *[link pendente]*
+      
+- **Frontend:**
+  - Componente de Busca com Filtros  
+    👨‍💻 Dev: [@uGonzaguinha](https://github.com/uGonzaguinha)  
+    ✅ Revisado por: [@andrebarceloschagas](https://github.com/andrebarceloschagas)
 
 #### Participação Cruzada
-
 | Membro               | Frontend                        | Backend                         |
 |----------------------|---------------------------------|----------------------------------|
-| @andrebarceloschagas | Tela de Detalhes do Produto     | Endpoint de Detalhes do Produto |
-| @HeloCris            | Implementação de Filtros        | Endpoint de Filtros de Busca    |
-| @raphaelsales        | Aceitar/Rejeitar Pedido         | Endpoint de Rotas               |
-| @thiagogonzagadev    | Catálogo e Implementação do Mapa| Endpoint de Listagem de Produtos|
-| @uGonzaguinha        | Visualização de Pedidos         | Endpoint de Listagem de Pedidos |
+| @andrebarceloschagas | Registro de Produtos            | Registro de Produtos            |
+| @HeloCris            | -                               | Cadastro de Produtor            |
+| @raphaelsales        | -                               | Busca Avançada                  |
+| @thiagogonzagadev    | Favoritos + Detalhes do Produto | Favoritos + Detalhes do Produto |
+| @uGonzaguinha        | Cadastro de Produtor + Busca    | -                               |
 
 **Release:** *pendente*
 
-        Too many current requests. Your queue position is 1. Please wait for a while or switch to other models for a smoother experience.
+
 ---
 
 ## 🚚 Sprint 3 | 12/05 - 26/05
@@ -219,11 +209,8 @@
 ### Funcionalidades
 - Carrinho de Compras
 - Tela de Checkout
-- Opções de Entrega/Retirada
 - Integração com Meios de Pagamento (PIX e Cartão)
-- Iniciar Entrega
 - Atualizar Status da Entrega (coletado, em rota, entregue)
-- Chat com Cliente/Produtor
 
 **Release:** *pendente*
 
