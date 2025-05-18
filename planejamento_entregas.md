@@ -234,6 +234,7 @@
 - **Frontend:**
   - Tela/Componente de Carrinho de Compras (visualização, remoção, alteração de quantidade, limpar carrinho)
 - **Responsável:** [@thiagogonzagadev](https://github.com/thiagogonzagadev) (Frontend + Backend)
+- **Revisor:** [@andrebarceloschagas](https://github.com/andrebarceloschagas)
 
 ---
 
@@ -245,6 +246,7 @@
 - **Frontend:**
   - Tela/Componente de Pagamento (seleção do método, exibição de QR Code PIX, formulário de cartão, feedback de sucesso/erro)
 - **Responsável:** [@andrebarceloschagas](https://github.com/andrebarceloschagas) (Frontend + Backend)
+- **Revisor:** [@HeloCris](https://github.com/HeloCris)
 
 ---
 
@@ -257,6 +259,7 @@
   - Tela de Checkout (resumo do pedido, seleção de endereço, escolha de entrega/retirada, confirmação)
   - **Feedback Visual do Processo de Compra:** Indicador de progresso durante o checkout (etapas claras: carrinho → endereço → pagamento → confirmação)
 - **Responsável:** [@raphaelsales](https://github.com/raphaelsales) (Frontend + Backend)
+- **Revisor:** [@uGonzaguinha](https://github.com/uGonzaguinha)
 
 ---
 
@@ -271,6 +274,7 @@
   - Tela/modal de detalhes do pedido (produtos, status, valores, etc)
   - **Feedback Visual do Processo de Compra:** Confirmação visual e mensagem de sucesso após finalização da compra
 - **Responsável:** [@uGonzaguinha](https://github.com/uGonzaguinha) (Frontend + Backend)
+- **Revisor:** [@raphaelsales](https://github.com/raphaelsales)
 
 ---
 
@@ -280,6 +284,7 @@
 - **Frontend:**
   - Tela de gerenciamento de produtos (CRUD completo para o produtor)
 - **Responsável:** [@HeloCris](https://github.com/HeloCris) (Frontend + Backend)
+- **Revisor:** [@thiagogonzagadev](https://github.com/thiagogonzagadev)
 
 ---
 
@@ -291,6 +296,7 @@
   - Componente/Seção para o cliente avaliar produtos após a compra.
   - Exibição das avaliações na tela de "Detalhes do Produto".
 - **Responsável:** [@thiagogonzagadev](https://github.com/thiagogonzagadev) (Frontend + Backend)
+- **Revisor:** [@andrebarceloschagas](https://github.com/andrebarceloschagas) e [@uGonzaguinha](https://github.com/uGonzaguinha)
 
 ---
 
@@ -302,6 +308,7 @@
   - Campo para inserir código do cupom na tela do Carrinho ou Checkout.
   - Exibição do desconto aplicado no resumo do pedido.
 - **Responsável:** [@andrebarceloschagas](https://github.com/andrebarceloschagas) (Frontend + Backend)
+- **Revisor:** [@raphaelsales](https://github.com/raphaelsales)
 
 ---
 
@@ -315,6 +322,7 @@
   - Indicadores visuais de novas notificações
   - Centro de notificações para visualizar histórico
 - **Responsável:** [@raphaelsales](https://github.com/raphaelsales) (Frontend + Backend)
+- **Revisor:** [@HeloCris](https://github.com/HeloCris)
 
 ---
 
