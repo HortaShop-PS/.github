@@ -335,7 +335,7 @@
 - Sistema de cupons de desconto aplicáveis no checkout
 - Feedback visual do processo de compra (indicadores de progresso e confirmação)
 
-**Release:** *pendente*
+***Release:** **[v0.3.0](https://github.com/HortaShop-PS/BackEnd/releases/tag/v0.3.0)***
 
 ---
 
