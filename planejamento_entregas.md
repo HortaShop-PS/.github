@@ -312,20 +312,6 @@
 
 ---
 
-#### 8. Notificações de Status do Pedido
-- **Backend:**
-  - Endpoint para registrar preferências de notificação do usuário
-  - Endpoint para enviar notificações sobre mudanças no status do pedido
-  - Integração com sistema de e-mail para envio de notificações
-- **Frontend:**
-  - Configurações de preferências de notificação (email, push, SMS)
-  - Indicadores visuais de novas notificações
-  - Centro de notificações para visualizar histórico
-- **Responsável:** [@raphaelsales](https://github.com/raphaelsales) (Frontend + Backend)
-- **Revisor:** [@HeloCris](https://github.com/HeloCris)
-
----
-
 ### Participação Cruzada
 
 | Membro               | Frontend                                                          | Backend                                                           |
@@ -333,7 +319,7 @@
 | @thiagogonzagadev    | Carrinho de Compras + Avaliação Produtos                          | Carrinho de Compras + Avaliação Produtos                          |
 | @andrebarceloschagas | Pagamento + Sistema de Cupons                                     | Pagamento + Sistema de Cupons                                     |
 | @HeloCris            | Gestão de Produtos                                                | Gestão de Produtos                                                |
-| @raphaelsales        | Checkout + Notificações de Status                                 | Checkout + Notificações de Status                                 |
+| @raphaelsales        | Checkout                                                          | Checkout                                                          |
 | @uGonzaguinha        | Histórico/Detalhes de Pedidos (Cliente/Prod.)                     | Histórico/Detalhes de Pedidos (Cliente/Prod.)                     |
 
 ---
@@ -347,7 +333,6 @@
 - Gestão completa de produtos para o produtor (CRUD)
 - Sistema de avaliação de produtos pelos clientes
 - Sistema de cupons de desconto aplicáveis no checkout
-- Notificações de status do pedido para clientes
 - Feedback visual do processo de compra (indicadores de progresso e confirmação)
 
 **Release:** *pendente*
