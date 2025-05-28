@@ -451,4 +451,4 @@
 - **Rastreamento:** Monitoramento em tempo real do status dos pedidos para transparência total
 - **Experiência:** Interface aprimorada com feedback visual e atualizações em tempo real
 
-**Release:** [v1.0.0](https://github.com/HortaShop-PS/BackEnd/releases/tag/v1.0.0) - *Release de
+**Release:** [v1.0.0](https://github.com/HortaShop-PS/BackEnd/releases/tag/v1.0.0)
