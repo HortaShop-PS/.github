@@ -102,7 +102,6 @@ Para lançar o HortaShop de forma eficiente, é fundamental estabelecer um **Pro
   - **Navegação e Pesquisa:** Facilitar a busca por produtores locais e seus produtos.
   - **Listagem de Produtos:** Exibir detalhes dos produtos, incluindo descrições, imagens e preços.
   - **Carrinho de Compras e Gerenciamento de Pedidos:** Possibilitar a seleção de produtos e o acompanhamento dos pedidos.
-  - **Pagamento Online Seguro:** Integrar sistemas de pagamento confiáveis para processar transações.
   - **Notificações e Rastreamento de Pedidos:** Informar os consumidores sobre o status de seus pedidos.
   - **Suporte ao Cliente:** Disponibilizar canais de atendimento para esclarecer dúvidas e resolver problemas.
 
@@ -111,13 +110,11 @@ Para lançar o HortaShop de forma eficiente, é fundamental estabelecer um **Pro
   - **Gerenciamento de Produtos:** Oferecer ferramentas para listar produtos, controlar estoques e definir preços.
   - **Gestão de Pedidos:** Facilitar a visualização e atualização do status dos pedidos recebidos.
   - **Comunicação com Clientes:** Habilitar interações básicas entre produtores e consumidores para esclarecer dúvidas ou fornecer informações adicionais.
-  - **Processamento de Pagamentos:** Integrar soluções seguras para o recebimento e retirada de pagamentos.
 
 - **Núcleo da Plataforma:**
   - **Autenticação e Autorização:** Garantir acesso seguro para todos os usuários.
   - **Sistema de Busca e Filtros:** Implementar funcionalidades que auxiliem na localização eficiente de produtos e produtores.
   - **Processamento de Pedidos:** Gerenciar todo o ciclo de vida dos pedidos, desde a criação até a conclusão.
-  - **Integração com Gateways de Pagamento:** Assegurar transações financeiras seguras e eficientes.
   - **Painel Administrativo:** Disponibilizar uma interface para a administração da plataforma, permitindo o gerenciamento de usuários, produtos e operações.
 
 Ao focar nessas funcionalidades essenciais, o HortaShop poderá entrar no mercado de forma ágil, coletando feedbacks valiosos dos usuários e permitindo ajustes e melhorias contínuas com base nas necessidades reais dos consumidores e produtores. Essa abordagem iterativa é fundamental para o desenvolvimento de um produto que realmente atenda às expectativas do mercado.
@@ -132,7 +129,7 @@ Ao focar nessas funcionalidades essenciais, o HortaShop poderá entrar no mercad
 |---|---|---|---|---|---|
 | 1 | 07/04 - 04/05 | Core da Plataforma e Cadastro | Tela de Login, Tela de Cadastro (produtor e consumidor), Tela Home (inicial), Tela de Perfil (produtor e consumidor), Tela de Editar Perfil (produtor e consumidor). | Tela de Login, Tela de Cadastro, Tela Home (com mapa), Tela de Perfil, Tela de Editar Perfil. | Release 1: Funcionalidades básicas de autenticação e perfis de usuário para ambos os aplicativos. |
 | 2 | 05/05 - 19/05 | Catálogo, Busca e Geolocalização | Tela de Catálogo de Produtos, Filtros de Busca (por tipo de produto, região), Detalhes do Produto. | Visualização de Pedidos Disponíveis (próximos), Aceitar/Rejeitar Pedido, Integração com Google Maps (para rotas). | Release 2: Catálogo de produtos pesquisável, visualização de entregas próximas e sistema de aceitação/rejeição de pedidos. |
-| 3 | 20/05 - 02/06 | Sistema de Pedidos e Rastreamento | Carrinho de Compras, Tela de Checkout, Opções de Entrega/Retirada, Integração com Meios de Pagamento (PIX e cartão). | Iniciar Entrega, Atualizar Status da Entrega (coletado, em rota, entregue), Chat com o Cliente/Produtor. | Release 3: Fluxo completo de pedidos para clientes/produtores e sistema de gerenciamento de entregas para entregadores. |
+| 3 | 20/05 - 02/06 | Sistema de Pedidos e Rastreamento | Carrinho de Compras, Tela de Checkout, Opções de Entrega/Retirada. | Iniciar Entrega, Atualizar Status da Entrega (coletado, em rota, entregue), Chat com o Cliente/Produtor. | Release 3: Fluxo completo de pedidos para clientes/produtores e sistema de gerenciamento de entregas para entregadores. |
 | 4 | 03/06 - 16/06 | Avaliação, Refinamento e Histórico | Sistema de Avaliação de Produtores, Histórico de Pedidos (Clientes/Produtores), Refinamento da Interface e Correção de Bugs. | Histórico de Entregas, Avaliação do Cliente/Produtor, Refinamento da Interface e Correção de Bugs. | Release 4: Funcionalidades de avaliação, histórico e melhorias gerais na plataforma para ambos os aplicativos. |
 
 ### Critérios de Aceitação
