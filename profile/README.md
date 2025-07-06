@@ -41,7 +41,9 @@ Professor Edeilson Milhomem da Silva
 - Raphael Sales - [@raphaelsales](https://github.com/raphaelsales)
 - Thiago Gonzaga dos Santos - [@thiagogonzagadev](https://github.com/thiagogonzagadev)
 
-## [Pitch](https://www.canva.com/design/DAGj94XQBxs/151oJxBJoCiu4VFlF1HD0w/view?utm_content=DAGj94XQBxs&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hd5462b7299)
+## [Pitch](https://www.canva.com/design/DAGsaG9KoJM/ffbvaMMKYcnrXNWhoYiz1Q/edit?utm_content=DAGsaG9KoJM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
+## [Apresentação Técnica](https://www.canva.com/design/DAGrwgtlyvM/ERwakoFnlDYQFvu-rn8EYA/edit?utm_content=DAGrwgtlyvM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 ## [Minimum Viable Product](/mvp.md)
 
